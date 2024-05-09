@@ -33,5 +33,5 @@ App creada para el curso de Git y GitHub.
 *Este commit si esta completo :)
 **Espero no me regañen**
 ### Fecha de creación 2021.
-
-
+Cris Santana, pruebas en el README
+*Añadiendo modificaciones
